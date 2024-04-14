@@ -1,16 +1,72 @@
 ## C++
-
-- using
-- new delete
+- cin / cout
+- variables
+- basic data types
+- operators
+- conditions (if, else...)
+- switch
+- goto
+- while
+- do while
+- for
+- break / continue
+- rand() / srand()
+- array
+- std::string_view
+- std::string
+- std::wstring
 - pragma
-- string
-- constructor
-- destructor
-- static_cast
-- pair
-- auto
-- lvalue/rvalue
+- *this
+- using
+- namespace
+- enum
 - typedef
+- type alias
+- auto
+- pointers
+- new delete
+- references
+- std::array
+- std::vector
+- structures
+- functions
+- function overloading
+- recursion
+- OOP
+- classes / objects
+- class methods
+- constructors
+- destructor
+- access specifiers
+- encapsulation
+- inheritance
+- polymorphism
+- exceptions
+- static_cast
+- dynamic_cast
+- pair
+- lvalue/rvalue
+- cerr / exit()
+- ellipsis
+- lambda expressions
+- friendly functions and classes
+- anonymous objects
+- operator overload
+- templates
+- virtual functions
+- composition
+- aggregation
+- association
+- dependence
+- override / final
+- std::move()
+- std::unique_ptr
+- std::shared_ptr
+- std::weak_ptr
+- standard template library (STL)
+- STL containers
+- STL iterators
+- STL algorithms
 - cstdbool file
 - climits file
 - ciso646 file
@@ -20,4 +76,6 @@
 - ctime file
 - cstring file
 - clocale file
-- this
+- ofstream
+- ifstream
+- fstream
