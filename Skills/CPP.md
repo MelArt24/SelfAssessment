@@ -1,9 +1,35 @@
 # C++
-## basics
+
+## Basics
 - cin / cout
+- comments
+- functions
+- parameters and arguments of functions
 - variables
+- preprocessor directives
 - basic data types
+- pragma
+- namespace
+
+## Variables, basic data types and operators
+- void
+- literals and magic numbers
 - operators
+- increment / decrement
+- sizeof()
+- bool
+
+## Scope and other types of variables
+- local and global variables
+- static
+- using
+- typedef
+- type alias
+- enum
+- structures
+- auto
+
+## Cycles and branching
 - conditions (if, else...)
 - switch
 - goto
@@ -12,27 +38,27 @@
 - for
 - break / continue
 - rand() / srand()
+
+## Arrays, Strings, Pointers and References
+- pointers
+- references
 - array
 - std::string_view
 - std::string
 - std::wstring
-- pragma
-- *this
-- using
-- namespace
-- enum
-- typedef
-- type alias
-- auto
-- pointers
 - new delete
-- references
 - std::array
 - std::vector
-- structures
+
+## Functions
 - functions
 - function overloading
 - recursion
+- cerr / exit()
+- ellipsis
+- lambda expressions
+
+## Basics of OOP
 - OOP
 - classes / objects
 - class methods
@@ -43,40 +69,98 @@
 - inheritance
 - polymorphism
 - exceptions
-- static_cast
-- dynamic_cast
-- pair
-- lvalue/rvalue
-- cerr / exit()
-- ellipsis
-- lambda expressions
+- *this
 - friendly functions and classes
 - anonymous objects
-- operator overload
-- templates
-- virtual functions
+
+##  Operator overloading
+- operator overloading
+- explicit / delete
+
+## Relationships between Objects
 - composition
 - aggregation
 - association
 - dependence
+- std::initializer_list
+
+## Virtual functions
 - override / final
+- virtual functions
+- dynamic_cast
+
+## Smart pointers
 - std::move()
+- std::auto_ptr
 - std::unique_ptr
 - std::shared_ptr
 - std::weak_ptr
-- standard template library (STL)
+
+## Abstract Data Types
+- singly linked list
+- doubly linked list
+- stack
+- binary tree
+- queue
+
+## Standard Template Library (STL)
 - STL containers
 - STL iterators
 - STL algorithms
-- cstdbool file
-- climits file
-- ciso646 file
-- cctype file
-- cerrno file
-- cassert file
-- ctime file
-- cstring file
-- clocale file
-- ofstream
-- ifstream
-- fstream
+
+## C++ standard library
+- <array>
+- <deque>
+- <forward_list>
+- <list>
+- <map>
+- <queue>
+- <set>
+- <stack>
+- <unordered_map>
+- <unordered_set>
+- <vector>
+- <algorithm>
+- <chrono>
+- <functional>
+- <iterator>
+- <memory>
+- <stdexcept>
+- <tuple>
+- <utility> (std::pair)
+- <locale>
+- <codecvt>
+- <string>
+- <regex>
+- <fstream>
+- <iomanip>
+- <iostream>
+- <istream>
+- <ostream>
+- <sstream>
+- <streambuf>
+- <exception>
+- <limits>
+- <typeinfo>
+- <thread>
+- <random>
+- <cstdbool>
+- <climits>
+- <ciso646>
+- <cctype>
+- <cerrno>
+- <cassert>
+- <ctime>
+- <clocale>
+- <ofstream>
+- <ifstream>
+- <fstream>
+- <mutex>
+- <future>
+
+## Other
+- static_cast
+- const_cast
+- reinterpret_cast
+- lvalue / rvalue
+- templates
