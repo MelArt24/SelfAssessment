@@ -111,24 +111,24 @@
 ## C++ standard library
 - array
 - deque
-- <forward_list>
-- <list>
-- <map>
-- <queue>
-- <set>
-- <stack>
-- <unordered_map>
-- <unordered_set>
-- <vector>
-- <algorithm>
-- <chrono>
-- <functional>
-- <iterator>
-- <memory>
-- <stdexcept>
-- <tuple>
-- <utility> (std::pair)
-- <locale>
+- forward_list
+- list
+- map
+- queue
+- set
+- stack
+- unordered_map
+- unordered_set
+- vector
+- algorithm
+- chrono
+- functional
+- iterator
+- memory
+- stdexcept
+- tuple
+- utility (std::pair)
+- < locale >
 - <codecvt>
 - <string>
 - <regex>
