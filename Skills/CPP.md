@@ -109,8 +109,8 @@
 - STL algorithms
 
 ## C++ standard library
-- <array>
-- <deque>
+- array
+- deque
 - <forward_list>
 - <list>
 - <map>
