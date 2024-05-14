@@ -7,11 +7,11 @@
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: 🎓 known
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
+  - Asynchronous programming: heard
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
@@ -27,22 +27,22 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
+  - Constructor: 🎓 known
+  - Operator `new`: 👂 heard
+  - Static method: 👂 heard
+  - Method: 🖐️ used
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
+  - Getters, Setters: 🖐️ used
+  - Public fields: 👂 heard
+  - Private fields: 👂 heard
   - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
+  - Polymorphism: 👂 heard
+  - Abstract class: 👂 heard
+  - Interface: 👂 heard
+  - Encapsulation: 🎓 known
+  - Hidden class: 👂 heard
   - Object form
   - Instance
   - Introspection
