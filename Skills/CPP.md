@@ -1,107 +1,107 @@
 # C++
 
 ## Basics
-- cin / cout
-- comments
-- functions
-- parameters and arguments of functions
-- variables
-- preprocessor directives
-- basic data types
-- pragma
-- namespace
+- cin / cout: used 
+- comments: used
+- functions: used
+- parameters and arguments of functions: known
+- variables: used
+- preprocessor directives: heard
+- basic data types: used
+- pragma: known
+- namespace: known
 
 ## Variables, basic data types and operators
-- void
-- literals and magic numbers
-- operators
-- increment / decrement
-- sizeof()
-- bool
+- void: used
+- literals and magic numbers: known
+- operators: used
+- increment / decrement: used
+- sizeof(): used
+- bool: used
 
 ## Scope and other types of variables
-- local and global variables
-- static
-- using
-- typedef
-- type alias
-- enum
-- structures
-- auto
+- local and global variables: used
+- static: heard
+- using: known
+- typedef: known
+- type alias: known
+- enum: known
+- structures: known
+- auto: known
 
 ## Cycles and branching
-- conditions (if, else...)
-- switch
-- goto
-- while
-- do while
-- for
-- break / continue
-- rand() / srand()
+- conditions (if, else...): used
+- switch: used
+- goto: known
+- while: used
+- do while: used
+- for: used
+- break / continue: used
+- rand() / srand(): used
 
 ## Arrays, Strings, Pointers and References
-- pointers
-- references
-- array
-- std::string_view
-- std::string
+- pointers: known
+- references: known
+- array: used
+- std::string_view: heard
+- std::string: known
 - std::wstring
-- new delete
-- std::array
-- std::vector
+- new delete: heard
+- std::array: heard
+- std::vector: heard
 
 ## Functions
-- functions
-- function overloading
-- recursion
-- cerr / exit()
-- ellipsis
-- lambda expressions
+- functions: heard
+- function overloading: heard
+- recursion: heard
+- cerr / exit(): heard
+- ellipsis: heard
+- lambda expressions: heard
 
 ## Basics of OOP
-- OOP
-- classes / objects
-- class methods
-- constructors
-- destructor
-- access specifiers
-- encapsulation
-- inheritance
-- polymorphism
-- exceptions
-- *this
-- friendly functions and classes
-- anonymous objects
+- OOP: known
+- classes / objects: known
+- class methods: known
+- constructors: used
+- destructor: known
+- access specifiers: known
+- encapsulation: known
+- inheritance: known
+- polymorphism: heard
+- exceptions: heard
+- *this: known
+- friendly functions and classes: known
+- anonymous objects: heard
 
 ##  Operator overloading
-- operator overloading
-- explicit / delete
+- operator overloading: known
+- explicit / delete: heard
 
 ## Relationships between Objects
-- composition
-- aggregation
-- association
-- dependence
-- std::initializer_list
+- composition: heard
+- aggregation: heard
+- association: heard
+- dependence: heard
+- std::initializer_list: heard
 
 ## Virtual functions
-- override / final
-- virtual functions
+- override / final: heard
+- virtual functions: heard
 - dynamic_cast
 
 ## Smart pointers
-- std::move()
+- std::move(): heard
 - std::auto_ptr
 - std::unique_ptr
 - std::shared_ptr
 - std::weak_ptr
 
 ## Abstract Data Types
-- singly linked list
-- doubly linked list
-- stack
-- binary tree
-- queue
+- singly linked list: used
+- doubly linked list: known
+- stack: used
+- binary tree: known
+- queue: used
 
 ## Standard Template Library (STL)
 - STL containers
@@ -109,19 +109,19 @@
 - STL algorithms
 
 ## C++ standard library
-- array
-- deque
+- array: heard
+- deque: heard
 - forward_list
 - list
-- map
-- queue
+- map: used
+- queue: heard
 - set
 - stack
 - unordered_map
 - unordered_set
-- vector
+- vector: heard
 - algorithm
-- chrono
+- chrono: used
 - functional
 - iterator
 - memory
@@ -130,37 +130,37 @@
 - utility (std::pair)
 - locale
 - codecvt
-- string
+- string: used
 - regex
-- fstream
-- iomanip
-- iostream
-- istream
-- ostream
-- sstream
+- fstream: used
+- iomanip: heard
+- iostream: used
+- istream: heard
+- ostream: heard
+- sstream: used
 - streambuf
-- exception
+- exception: heard
 - limits
 - typeinfo
-- thread
-- random
-- cstdbool
-- climits
-- ciso646
-- cctype
-- cerrno
-- cassert
-- ctime
-- clocale
+- thread: used
+- random: used
+- cstdbool: heard
+- climits: heard
+- ciso646: heard
+- cctype: heard
+- cerrno: heard
+- cassert: heard
+- ctime: heard
+- clocale: heard
 - ofstream
 - ifstream
-- fstream
+- fstream: used
 - mutex
 - future
 
 ## Other
-- static_cast
+- static_cast: known
 - const_cast
 - reinterpret_cast
-- lvalue / rvalue
-- templates
+- lvalue / rvalue: heard
+- templates: known
