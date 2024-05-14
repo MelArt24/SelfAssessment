@@ -4,7 +4,7 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm: used
+  - Algorithm: 👂 heard
   - Syntax: 👂 heard
   - Semantics
   - Abstraction
@@ -19,7 +19,7 @@
   - Component
   - Framework: 👂 heard
   - Platform
-  - Source code: known
+  - Source code: heard
   - Object code
   - Machine code
   - Microcode
@@ -98,7 +98,7 @@
   - Composition
   - Pipe
   - Memoize: 👂 heard
-  - Wrapper
+  - Wrapper: heard
   - Functor: 👂 heard
   - Monad
   - Monoid
@@ -108,21 +108,21 @@
   - Array: 👂 heard
   - Structure: 👂 heard
   - Record
-  - Enum: 👂 heard
+  - Enum: known
   - Instance
   - Object: heard
-  - Collection: used
+  - Collection: heard
   - Set: 👂 heard
   - Hash table: 👂 heard
   - Linked list: used
   - Doubly list: known
   - Unrolled list
   - Circular list
-  - Queue: 👂 heard
-  - Stack: 👂 heard
+  - Queue: 👂 used
+  - Stack: 👂 used
   - Deque: 👂 heard
   - Tree: 👂 heard
-  - Graph: 👂 heard
+  - Graph: 👂 used
   - Iterator: 👂 heard
   - Mutable state: 👂 heard
   - Immutable state: 👂 heard
@@ -132,7 +132,7 @@
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS: heard
   - CDN
   - CORS
   - IPv4: heard
@@ -149,7 +149,7 @@
   - Linter
   - Polyfill
   - Interpreter
-  - Linker
+  - Linker: heard
   - Dynamic linking
   - Static linking
   - Runtime
@@ -160,7 +160,7 @@
   - Debugger: heard
   - Tracing
   - Garbage collection
-  - Refactoring: used
+  - Refactoring
   - Code review
   - Exception
   - Unittesting
@@ -215,12 +215,12 @@
   - Virtual memory
   - File system
   - Linux: 👂 heard
-  - Unix
+  - Unix: heard
   - BSD
-  - MacOS
+  - MacOS: heard
   - Windows: 🎓 known
   - Real-time OS
-  - Embedded OS
+  - Embedded OS: heard
 - Standards
   - ASCII: 👂 heard
   - Escape sequence
