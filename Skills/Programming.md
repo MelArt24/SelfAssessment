@@ -19,7 +19,7 @@
   - Component
   - Framework: 👂 heard
   - Platform
-  - Source code: heard
+  - Source code: 👂 heard
   - Object code
   - Machine code
   - Microcode
@@ -66,8 +66,8 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types: used
-  - Reference types: used
+  - Primitive types: 🖐️ used
+  - Reference types: 🖐️ used
   - Type systems
   - Strong typing
   - Weak typing
@@ -98,7 +98,7 @@
   - Composition
   - Pipe
   - Memoize: 👂 heard
-  - Wrapper: heard
+  - Wrapper: 👂 heard
   - Functor: 👂 heard
   - Monad
   - Monoid
@@ -108,21 +108,21 @@
   - Array: 👂 heard
   - Structure: 👂 heard
   - Record
-  - Enum: known
+  - Enum: 🎓 known
   - Instance
-  - Object: heard
-  - Collection: heard
+  - Object: 👂 heard
+  - Collection: 👂 heard
   - Set: 👂 heard
   - Hash table: 👂 heard
-  - Linked list: used
-  - Doubly list: known
+  - Linked list: 🖐️ used
+  - Doubly list: 🎓 known
   - Unrolled list
   - Circular list
-  - Queue: 👂 used
-  - Stack: 👂 used
+  - Queue: 👂 used 👉 Warning: not matching level and emoji
+  - Stack: 👂 used 👉 Warning: not matching level and emoji
   - Deque: 👂 heard
   - Tree: 👂 heard
-  - Graph: 👂 used
+  - Graph: 👂 used 👉 Warning: not matching level and emoji
   - Iterator: 👂 heard
   - Mutable state: 👂 heard
   - Immutable state: 👂 heard
@@ -132,40 +132,40 @@
   - JSON5
   - YAML
 - Networking
-  - DNS: heard
+  - DNS: 👂 heard
   - CDN
   - CORS
-  - IPv4: heard
-  - IPv6: heard
-  - NAT: heard
-  - URL: heard
+  - IPv4: 👂 heard
+  - IPv6: 👂 heard
+  - NAT: 👂 heard
+  - URL: 👂 heard
   - URN
   - URI
 - Process and tools
-  - Compiler: heard
+  - Compiler: 👂 heard
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
   - Linter
   - Polyfill
   - Interpreter
-  - Linker: heard
+  - Linker: 👂 heard
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine: heard
+  - Virtual machine: 👂 heard
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger: heard
+  - Debugger: 👂 heard
   - Tracing
   - Garbage collection
   - Refactoring
   - Code review
   - Exception
   - Unittesting
-  - git: heard
-  - Github: heard
+  - git: 👂 heard
+  - Github: 👂 heard
   - Docker
   - Kubernetes
   - GCC
@@ -215,25 +215,25 @@
   - Virtual memory
   - File system
   - Linux: 👂 heard
-  - Unix: heard
+  - Unix: 👂 heard
   - BSD
-  - MacOS: heard
+  - MacOS: 👂 heard
   - Windows: 🎓 known
   - Real-time OS
-  - Embedded OS: heard
+  - Embedded OS: 👂 heard
 - Standards
   - ASCII: 👂 heard
   - Escape sequence
   - RFC
   - IETF
-  - IANA: heard
-  - IEEE: heard
+  - IANA: 👂 heard
+  - IEEE: 👂 heard
   - Base64
   - ECMA
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8: heard
+  - UTF-8: 👂 heard
   - W3C
   - ODMG
