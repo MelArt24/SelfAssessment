@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-116/351/730-009933?style=flat-square)](https://github.com/MelArt24/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-116&nbsp;/&nbsp;352&nbsp;/&nbsp;731-FF3300?style=flat-square)](https://github.com/MelArt24/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-116/351/730-009933?style=flat-square)](https://github.com/MelArt24/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-116&nbsp;/&nbsp;352&nbsp;/&nbsp;731-FF3300?style=flat-square)](https://github.com/MelArt24/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/MelArt24/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-116/351/730-009933?style=flat-square"></a>
+<a href="https://github.com/MelArt24/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-116&nbsp;/&nbsp;352&nbsp;/&nbsp;731-FF3300?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -21,16 +21,16 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `8` | `23` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `14` | `26` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Networking | `0` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `1` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `2` | `28` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `8` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `0` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Operation systems | `2` | `13` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `2` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `1` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Language | `18` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `14` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `2` | `10` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `4` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `3` | `8` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `1` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `0` | `6` |
 | [Async](/Skills/Async.md) | | |
@@ -114,7 +114,7 @@
 | `Array` | 👂 heard | ⟶  | 🖐️ used |
 | `Map` | 👂 heard | ⟶  | 🖐️ used |
 | `Set` | 👂 heard | ⟶  | 🖐️ used |
-| Mixins | 👂 heard | ⟶  | 🎓 known |
+| Mixins | 🤷 unknown | ⟶  | 🎓 known |
 | `Object.assign` | 🤷 unknown | ⟶  | 🎓 known |
 | `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
 | `Error` | 🤷 unknown | ⟶  | 🖐️ used |
@@ -193,8 +193,10 @@ Total: you have `14` of `72` skills, `58` to be upgraded, and `2` above needed
 | `Array` | 👂 heard | ⟶  | 🖐️ used |
 | `Map` | 👂 heard | ⟶  | 🖐️ used |
 | `Set` | 👂 heard | ⟶  | 🖐️ used |
-| Weak collections | 🤷 unknown | ⟶  | 🎓 known |
+| `WeakMap` | 🤷 unknown | ⟶  | 🎓 known |
+| `WeakSet` | 🤷 unknown | ⟶  | 🎓 known |
 | Typed arrays | 🤷 unknown | ⟶  | 🎓 known |
+| Mixins | 🤷 unknown | ⟶  | 👂 heard |
 | `Object.assign` | 🤷 unknown | ⟶  | 🎓 known |
 | `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
 | `RegExp` | 🤷 unknown | ⟶  | 🎓 known |
@@ -214,7 +216,7 @@ Total: you have `14` of `72` skills, `58` to be upgraded, and `2` above needed
 | npm | 🤷 unknown | ⟶  | 🎓 known |
 | prettier | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `14` of `97` skills, `83` to be upgraded, and `0` above needed
+Total: you have `13` of `98` skills, `85` to be upgraded, and `0` above needed
 
 ## [Async](/Skills/Async.md)
 

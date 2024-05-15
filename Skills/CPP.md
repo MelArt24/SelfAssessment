@@ -1,7 +1,6 @@
-# C++
 
 ## Basics
-- cin / cout: used 
+- cin / cout: used
 - comments: used
 - functions: used
 - parameters and arguments of functions: known
@@ -10,7 +9,6 @@
 - basic data types: used
 - pragma: known
 - namespace: known
-
 ## Variables, basic data types and operators
 - void: used
 - literals and magic numbers: known
@@ -18,7 +16,6 @@
 - increment / decrement: used
 - sizeof(): used
 - bool: used
-
 ## Scope and other types of variables
 - local and global variables: used
 - static: heard
@@ -28,7 +25,6 @@
 - enum: heard
 - structures: heard
 - auto: known
-
 ## Cycles and branching
 - conditions (if, else...): used
 - switch: used
@@ -38,7 +34,6 @@
 - for: used
 - break / continue: used
 - rand() / srand(): used
-
 ## Arrays, Strings, Pointers and References
 - pointers: known
 - references: known
@@ -49,7 +44,6 @@
 - new delete: heard
 - std::array: heard
 - std::vector: heard
-
 ## Functions
 - functions: heard
 - function overloading: heard
@@ -57,7 +51,6 @@
 - cerr / exit(): heard
 - ellipsis
 - lambda expressions
-
 ## Basics of OOP
 - OOP: heard
 - classes / objects: known
@@ -72,42 +65,35 @@
 - *this: heard
 - friendly functions and classes: heard
 - anonymous objects
-
 ##  Operator overloading
 - operator overloading
 - explicit / delete
-
 ## Relationships between Objects
 - composition
 - aggregation
 - association
 - dependence
 - std::initializer_list
-
 ## Virtual functions
 - override / final
 - virtual functions
 - dynamic_cast
-
 ## Smart pointers
 - std::move()
 - std::auto_ptr
 - std::unique_ptr
 - std::shared_ptr
 - std::weak_ptr
-
 ## Abstract Data Types
 - singly linked list
 - doubly linked list
 - stack
 - binary tree
 - queue
-
 ## Standard Template Library (STL)
 - STL containers
 - STL iterators
 - STL algorithms
-
 ## C++ standard library
 - array: heard
 - deque: heard
@@ -157,7 +143,6 @@
 - fstream
 - mutex
 - future
-
 ## Other
 - static_cast: known
 - const_cast

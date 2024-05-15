@@ -90,9 +90,9 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`: heard
-  - `Map`: heard
-  - `Set`: heard
+  - `Array`: 👂 heard
+  - `Map`: 👂 heard
+  - `Set`: 👂 heard
   - `WeakMap`
   - `WeakSet`
   - Typed arrays

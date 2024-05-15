@@ -164,8 +164,8 @@
   - Code review
   - Exception
   - Unittesting
-  - git: heard
-  - Github: heard
+  - git: 👂 heard
+  - Github: 👂 heard
   - Docker
   - Kubernetes
   - GCC
