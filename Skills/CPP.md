@@ -1,127 +1,113 @@
-# C++
 
 ## Basics
-- cin / cout
-- comments
-- functions
-- parameters and arguments of functions
-- variables
-- preprocessor directives
-- basic data types
-- pragma
-- namespace
-
+- cin / cout: used
+- comments: used
+- functions: used
+- parameters and arguments of functions: known
+- variables: used
+- preprocessor directives: heard
+- basic data types: used
+- pragma: known
+- namespace: known
 ## Variables, basic data types and operators
-- void
-- literals and magic numbers
-- operators
-- increment / decrement
-- sizeof()
-- bool
-
+- void: used
+- literals and magic numbers: known
+- operators: used
+- increment / decrement: used
+- sizeof(): used
+- bool: used
 ## Scope and other types of variables
-- local and global variables
-- static
-- using
-- typedef
-- type alias
-- enum
-- structures
-- auto
-
+- local and global variables: used
+- static: heard
+- using: heard
+- typedef: heard
+- type alias: heard
+- enum: heard
+- structures: heard
+- auto: known
 ## Cycles and branching
-- conditions (if, else...)
-- switch
-- goto
-- while
-- do while
-- for
-- break / continue
-- rand() / srand()
-
+- conditions (if, else...): used
+- switch: used
+- goto: known
+- while: used
+- do while: used
+- for: used
+- break / continue: used
+- rand() / srand(): used
 ## Arrays, Strings, Pointers and References
-- pointers
-- references
-- array
-- std::string_view
-- std::string
+- pointers: known
+- references: known
+- array: used
+- std::string_view: heard
+- std::string: heard
 - std::wstring
-- new delete
-- std::array
-- std::vector
-
+- new delete: heard
+- std::array: heard
+- std::vector: heard
 ## Functions
-- functions
-- function overloading
-- recursion
-- cerr / exit()
+- functions: heard
+- function overloading: heard
+- recursion: heard
+- cerr / exit(): heard
 - ellipsis
 - lambda expressions
-
 ## Basics of OOP
-- OOP
-- classes / objects
-- class methods
-- constructors
-- destructor
-- access specifiers
-- encapsulation
-- inheritance
-- polymorphism
-- exceptions
-- *this
-- friendly functions and classes
+- OOP: heard
+- classes / objects: known
+- class methods: known
+- constructors: used
+- destructor: known
+- access specifiers: heard
+- encapsulation: heard
+- inheritance: heard
+- polymorphism: heard
+- exceptions: heard
+- *this: heard
+- friendly functions and classes: heard
 - anonymous objects
-
 ##  Operator overloading
 - operator overloading
 - explicit / delete
-
 ## Relationships between Objects
 - composition
 - aggregation
 - association
 - dependence
 - std::initializer_list
-
 ## Virtual functions
 - override / final
 - virtual functions
 - dynamic_cast
-
 ## Smart pointers
 - std::move()
 - std::auto_ptr
 - std::unique_ptr
 - std::shared_ptr
 - std::weak_ptr
-
 ## Abstract Data Types
 - singly linked list
 - doubly linked list
 - stack
 - binary tree
 - queue
-
 ## Standard Template Library (STL)
 - STL containers
 - STL iterators
 - STL algorithms
-
 ## C++ standard library
-- array
-- deque
+- array: heard
+- deque: heard
 - forward_list
 - list
-- map
-- queue
+- map: heard
+- queue: heard
 - set
 - stack
 - unordered_map
 - unordered_set
-- vector
+- vector: heard
 - algorithm
-- chrono
+- chrono: heard
 - functional
 - iterator
 - memory
@@ -144,23 +130,22 @@
 - typeinfo
 - thread
 - random
-- cstdbool
-- climits
-- ciso646
-- cctype
-- cerrno
-- cassert
-- ctime
-- clocale
+- cstdbool: heard
+- climits: heard
+- ciso646: heard
+- cctype: heard
+- cerrno: heard
+- cassert: heard
+- ctime: heard
+- clocale: heard
 - ofstream
 - ifstream
 - fstream
 - mutex
 - future
-
 ## Other
-- static_cast
+- static_cast: known
 - const_cast
 - reinterpret_cast
-- lvalue / rvalue
+- lvalue / rvalue: heard
 - templates

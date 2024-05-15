@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object`: 👂 heard
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
   - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `String`: 👂 heard
+  - `Symbol`: 🖐️ used
+  - `Infinity`: 👂 heard
+  - `NaN`: 👂 heard
+  - `undefined`: 👂 heard
+  - `null`: 👂 heard
   - `this`
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof`: 👂 heard
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators: 👂 heard
   - Async generator
   - Async iterator
   - Chaining
@@ -32,16 +32,16 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
   - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
+  - Bitwise operators: 👂 heard
+  - Ternary operator: 👂 heard
+  - `void`: 👂 heard
   - `yield`
   - `await`
   - Template literal
-  - Strict mode
+  - Strict mode: 🖐️ used
   - Hoisting
   - `delete`
   - `in`
@@ -59,28 +59,28 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 👂 heard
+  - `for`: 🖐️ used
+  - `for..in`: 👂 heard
+  - `for..of`: 🖐️ used
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
+  - `throw`: 👂 heard
+  - `break`: 👂 heard
+  - `continue`: 👂 heard
+  - `import`: 🖐️ used
   - `export`
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
+  - `try..catch`: 👂 heard
+  - `switch`: 👂 heard
+  - `class`: 👂 heard
+  - `extends`: 👂 heard
   - `with`
   - `new`
 - Functions
-  - Arrow function
-  - Async function
+  - Arrow function: 🖐️ used
+  - Async function: 👂 heard
   - Function declaration
   - Function expression
   - Default parameters
@@ -90,10 +90,11 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
-  - Weak collections
+  - `Array`: 👂 heard
+  - `Map`: 👂 heard
+  - `Set`: 👂 heard
+  - `WeakMap`
+  - `WeakSet`
   - Typed arrays
   - Mixins
   - `Object.assign`
@@ -105,7 +106,7 @@
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON`
+  - `JSON`: 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
